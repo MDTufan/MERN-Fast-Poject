@@ -1,0 +1,87 @@
+/* .sec {
+    background-color: red;
+    width: 100%;
+    height: 500px;
+}
+
+.one {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+    padding: 0 12px;
+    background-color: rgba(0, 255, 255, 0.597);
+} */
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* main area start */
+.main-area {
+    width: 1200px;
+    background-image: url("img/coffe.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    padding-top: 70px;
+    
+}
+.main-area .one{
+    background-color:burlywood ;
+    width: 650px;
+    height:700px;
+    text-align: center;
+    margin: 0px 0px 0px 218px;
+}
+
+.main-area .one h1{
+    font-family: Impact, serif;
+    padding-top: 23px;
+}
+.main-area .one .two{
+    font-style: italic;
+    font-size: 12px;
+}
+.main-area .one .bar{
+  width: 600px;
+  height: 4px;
+  background-color: brown;
+}
+.main-area .one .bar1{
+  width: 600px;
+  height: 4px;
+  background-color: brown;
+  margin-top: 20px;
+}
+
+.main-area .one .section1 .item1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    margin: -18px 0px;
+}
+.main-area .one .heading{
+    font-family:Impact, serif ;
+}
+
+.main-area .one .section1 img {
+    width: 50px;
+    height: 40px;
+    margin-top: -18px;
+}
+/* main area end */
+/* footer section start */
+
+.main-area .one .link-1 a {
+    color: black;
+
+}
+
+.main-area .one .link-1 a:hover {
+    color: brown;
+}
+.main-area .one .link-1 a:active {
+    color: brown;
+}
+/* footer section end */
